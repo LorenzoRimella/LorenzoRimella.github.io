@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lorenzo Rimella</title>
+    <link>https://risotto.joeroe.io/</link>
+    <description>Recent content on Lorenzo Rimella</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://risotto.joeroe.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://risotto.joeroe.io/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://risotto.joeroe.io/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1- Hidden Markov models</title>
+      <link>https://risotto.joeroe.io/research/1-hmm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://risotto.joeroe.io/research/1-hmm/</guid>
+      <description>filtering, smoothing and inference when scaling up to high-dimensions</description>
+    </item>
+    
+    <item>
+      <title>2- Monte Carlo methods</title>
+      <link>https://risotto.joeroe.io/research/2-montecarlo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://risotto.joeroe.io/research/2-montecarlo/</guid>
+      <description>Sequential Monte Carlo and the development of smart proposal distributions and resampling schemes</description>
+    </item>
+    
+    <item>
+      <title>3- Epidemiological modelling</title>
+      <link>https://risotto.joeroe.io/research/3-epidemiology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://risotto.joeroe.io/research/3-epidemiology/</guid>
+      <description>compartmental models in epidemiology at both population and individuals level</description>
+    </item>
+    
+    <item>
+      <title>4- Deep Learning</title>
+      <link>https://risotto.joeroe.io/research/4-deeplearning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://risotto.joeroe.io/research/4-deeplearning/</guid>
+      <description>training different architecture of neural networks (Bayesian or not) to solve complex tasks</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://risotto.joeroe.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://risotto.joeroe.io/about/</guid>
+      <description># Education and work    I completed my B.Sc. in Mathematics for Finance and Insurance; and M.Sc. in Stochastics and Data Science; at UNITO (Università degli Studi di Torino) in the metropolitan city of Torino (capital of the Kingdom of Italy in 1861). During my postgraduate studies, I was also an &#34;Allievo&#34; at Collegio Carlo Alberto, which awarded me with a Master in Statistics and Applied Mathematics.</description>
+    </item>
+    
+  </channel>
+</rss>
